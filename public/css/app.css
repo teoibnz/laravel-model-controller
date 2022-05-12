@@ -11243,3 +11243,14 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+body {
+  background-color: rgb(177, 171, 171);
+}
+
+.card {
+  width: 16.6666666667%;
+}
+
+main {
+  height: 88vh;
+}

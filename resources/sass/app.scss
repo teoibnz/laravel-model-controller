@@ -1,2 +1,15 @@
 //
 @import "~bootstrap/scss/bootstrap";
+
+body{
+    background-color: rgb(177, 171, 171);
+}
+
+.card{
+    width: calc(100% / 6);
+}
+
+
+main{
+    height: 88vh;
+}
